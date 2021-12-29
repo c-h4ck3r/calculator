@@ -1,2 +1,5 @@
-# c_h4ck3r
-i work some mini calculator
+# c_h4ck3r mini python project
+try our mini calculator  
+
+
+form unknown group 
